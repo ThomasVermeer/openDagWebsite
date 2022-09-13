@@ -87,6 +87,35 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header{
+  border: solid #969794 5px;
+  background-color: #D8DAD1;
+
+
+}
+
+h1{
+  color: white;
+}
+
+.vakkenEersteJaar{
+  display: flex;
+  justify-content: space-between;
+}
+
+.textVakkenEersteJaar1{
+max-width: 500px;
+background-color: #58F9F4;
+}
+
+.roosterEersteJaar{
+  border: solid #969794 5px;
+  background-color: #D8DAD1;
+
+
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
