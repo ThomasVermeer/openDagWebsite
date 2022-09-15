@@ -105,7 +105,14 @@ h1{
 
 .textVakkenEersteJaar1{
 max-width: 500px;
-background-color: #58F9F4;
+min-width: 500px ;
+max-height: 100px;
+min-height: 100px;
+background-color: #1074ad;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+margin-top: 20px;
 }
 
 .roosterEersteJaar{
@@ -113,6 +120,10 @@ background-color: #58F9F4;
   background-color: #D8DAD1;
 
 
+}
+.splitsing{
+  border: solid black 2px;
+  margin: 10px;
 }
 
 
