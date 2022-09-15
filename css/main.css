@@ -102,6 +102,11 @@ h1{
   display: flex;
   justify-content: space-between;
 }
+.headerVakkenEersteJaar1{
+    border: solid #969794 5px;
+  background-color: #D8DAD1;
+margin-top: 20px;
+}
 
 .textVakkenEersteJaar1{
 max-width: 500px;
@@ -115,7 +120,7 @@ margin-bottom: 20px;
 margin-top: 20px;
 }
 
-.roosterEersteJaar{
+.headerRoosterEersteJaar{
   border: solid #969794 5px;
   background-color: #D8DAD1;
 
@@ -126,7 +131,11 @@ margin-top: 20px;
   margin: 10px;
 }
 
-
+.imageRoosterEersteJaar{
+  background-color: #1074ad;
+  display: flex;
+  justify-content: center;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
