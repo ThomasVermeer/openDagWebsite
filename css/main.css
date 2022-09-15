@@ -136,6 +136,20 @@ margin-top: 20px;
   display: flex;
   justify-content: center;
 }
+
+
+.headerIndelingVanDeBlokken{
+    border: solid #969794 5px;
+  background-color: #D8DAD1;
+}
+
+
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
