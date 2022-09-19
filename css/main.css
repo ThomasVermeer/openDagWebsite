@@ -132,7 +132,7 @@ margin-top: 20px;
 }
 
 .imageRoosterEersteJaar{
-  background-color: #1074ad;
+  
   display: flex;
   justify-content: center;
 }
@@ -142,11 +142,34 @@ margin-top: 20px;
     border: solid #969794 5px;
   background-color: #D8DAD1;
 }
+.headerIndelingVanDeBlokken h1{
+  border: solid red 3px;
+}
 
+.imageBlokkenRooster{
+  display: flex;
+  justify-content: center;
+  
+}
 
+.headerVersnellenInfo{
+    border: solid #969794 5px;
+  background-color: #D8DAD1;
 
+}
+body{
+  background-image: url(../img/radius.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+}
+.versnellenInfo{
+  display: flex;
+  justify-content: space-around;
+}
 
-
+.versnellenInfo img{
+border-radius: 100%;
+}
 
 
 
