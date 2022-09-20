@@ -176,6 +176,16 @@ border-radius: 100%;
   border: solid #969794 5px;
   background-color: #D8DAD1;
 }
+
+.smoelenBoek img{
+  border-radius: 50%;
+}
+
+.smoelenBoek{
+  display: flex;
+  justify-content: space-between;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
