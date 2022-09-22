@@ -95,7 +95,7 @@ header{
 }
 
 h1{
-  color: white;
+  
 }
 
 .vakkenEersteJaar{
@@ -129,6 +129,7 @@ margin-top: 20px;
 .splitsing{
   border: solid black 2px;
   margin: 10px;
+  background-color: aqua;
 }
 
 .imageRoosterEersteJaar{
@@ -143,7 +144,7 @@ margin-top: 20px;
   background-color: #D8DAD1;
 }
 .headerIndelingVanDeBlokken h1{
-  border: solid red 3px;
+  
 }
 
 .imageBlokkenRooster{
@@ -185,7 +186,15 @@ border-radius: 100%;
   display: flex;
   justify-content: space-between;
 }
-
+.persoon1{
+  color: white;
+}
+.persoon2{
+  color: white;
+}
+.persoon3{
+  color: white;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
